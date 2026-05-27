@@ -12,9 +12,9 @@ import (
 	"path/filepath"
 	"regexp"
 
+	"ekri.sh/golang/go-vanity-gen/pkg/generator"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
-	"krishnaiyer.tech/golang/go-vanity-gen/pkg/generator"
 )
 
 // Config represents the configuration

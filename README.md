@@ -2,12 +2,12 @@
 
 Generates simple html pages for Golang's vanity redirection.
 
-TODO: Add link to blog
+Read more on the [product page](https://www.ekri.sh/products/go-vanity-gen).
 
 ## Installation
 
 ```bash
-$ go get -u krishnaiyer.tech/golang/go-vanity-gen@<version>
+$ go get -u ekri.sh/golang/go-vanity-gen@<version>
 ```
 
 ## Options
@@ -37,7 +37,7 @@ Use "go-vanity-gen [command] --help" for more information about a command.
 1. Install
 
 ```bash
-$ go install krishnaiyer.tech/golang/go-vanity-gen
+$ go install ekri.sh/golang/go-vanity-gen
 ```
 
 2. Generate

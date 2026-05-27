@@ -5,7 +5,7 @@
 package main
 
 import (
-	"krishnaiyer.tech/golang/go-vanity-gen/cmd"
+	"ekri.sh/golang/go-vanity-gen/cmd"
 )
 
 func main() {

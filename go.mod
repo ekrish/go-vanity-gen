@@ -1,11 +1,11 @@
-module krishnaiyer.tech/golang/go-vanity-gen
+module ekri.sh/golang/go-vanity-gen
 
-go 1.25.1
+go 1.26.2
 
 require (
 	github.com/smarty/assertions v1.16.0
-	github.com/spf13/cobra v1.10.1
-	github.com/spf13/pflag v1.0.9
+	github.com/spf13/cobra v1.10.2
+	github.com/spf13/pflag v1.0.10
 	gopkg.in/yaml.v2 v2.4.0
 )
 

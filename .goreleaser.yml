@@ -11,9 +11,9 @@ builds:
     env:
       - CGO_ENABLED=0
     ldflags:
-      - -X krishnaiyer.tech/golang/go-vanity-gen/cmd.version={{.Version}}
-      - -X krishnaiyer.tech/golang/go-vanity-gen/cmd.gitCommit={{.Commit}}
-      - -X krishnaiyer.tech/golang/go-vanity-gen/cmd.buildDate={{.Date}}
+      - -X ekri.sh/golang/go-vanity-gen/cmd.version={{.Version}}
+      - -X ekri.sh/golang/go-vanity-gen/cmd.gitCommit={{.Commit}}
+      - -X ekri.sh/golang/go-vanity-gen/cmd.buildDate={{.Date}}
     goos:
       - darwin
       - linux

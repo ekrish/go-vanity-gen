@@ -5,7 +5,7 @@ GO_LINT=golangci-lint
 GVG_VERSION=v0.0.1
 GVG_GIT_COMMIT=$(shell git rev-parse --short HEAD)
 GVG_DATE=$(shell date)
-GVG_PACKAGE="krishnaiyer.tech/golang/go-vanity-gen"
+GVG_PACKAGE="ekri.sh/golang/go-vanity-gen"
 
 .PHONY: init
 
